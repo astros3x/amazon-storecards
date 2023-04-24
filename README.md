@@ -1,2 +1,3 @@
 # ASCG (Amazon Store Card Generator)
 Release soon....
+ATM YOU CAN FIND IT IN THIS REPO > [CLICK HERE](https://github.com/astros3x/Astri)
