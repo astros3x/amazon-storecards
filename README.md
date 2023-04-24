@@ -1,2 +1,2 @@
-# Astros3x-AmznGen
-An easy generator for educational and code sharing purposes only.
+# ASCG (Amazon Store Card Generator)
+Release soon....
