@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-  (amazon store card generator)
+  (amazon store card generator) <br>
   Star ⭐ if you want more <br>
   <a href="https://github.com/astros3x/Astri/">AstriV2</a> | <a href="https://discord.gg/XnRjFmgPYz">Discord</a>
 </div>
