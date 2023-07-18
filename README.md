@@ -6,7 +6,7 @@
 <div align="center">
   (amazon store cards generator) <br>
   Star ⭐ if you want more <br>
-  <a href="https://github.com/astros3x/Astri/">AstriV2</a> | <a href="https://discord.gg/XnRjFmgPYz">Discord</a>
+  <a href="https://github.com/astros3x/Astri/">AstriV2</a> | <a href="https://discord.gg/GDMVrNF8Gr">Discord</a>
 </div>
 
 ## 📍 About
@@ -21,7 +21,7 @@ ASCG is amazon store cards generator. With this tool its possible to generate st
 * Input the right number to interact with the menu
 
 ## :question: Support
-If you have any issues or need help contantact 2loop#6969, CaptainBeluga#5006 on discord or just join our [server](https://discord.gg/astros3x).
+If you have any issues or need help contantact 2loop#6969, CaptainBeluga#5006 on discord or just join our [server](https://discord.gg/GDMVrNF8Gr).
 
 ## :warning: Disclaimer
 Please note that the infos and information contained in this program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
